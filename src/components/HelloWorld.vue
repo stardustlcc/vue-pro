@@ -13,6 +13,12 @@
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex" target="_blank" rel="noopener">vuex</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
     </ul>
+    <div>
+      <b-button>Button</b-button>
+      <b-button variant="danger">Button</b-button>
+      <b-button variant="success">Button</b-button>
+      <b-button variant="outline-primary">Button</b-button>
+    </div>
     <h3>Essential Links</h3>
     <ul>
       <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
